@@ -9,9 +9,9 @@ Testing the Quandl package in Python to pull stock data from the WIKI/PRICES tab
 * Setting parameters for the requested tables and pulling the data from a set date range.
 
 ### Going forward
-* I will have to play around with the package some more, but it seems well documented will plenty of resources.
-* Some tweeks in the code could be to allow the user to set a starting date or have preset ranges (past 24 hours, 3 days, 3 months, etc.) for the user to select.
-* Also an input for what stock ticker that the user would want is an improvemnt, but I would have to also add in an exception check for the request because the API does not have a complete list of stocks (for example UBER was not listed).
+* I will have to play around with the package some more, but it seems well documented with plenty of resources.
+* Some improvements in the code could be to allow the user to set a starting date or have preset ranges (past 24 hours, 3 days, 3 months, etc.) for the user to select.
+* Also an input for selecting a stock ticker would be an improvemnt, but I would have to also add in an exception check for the request because the API does not have a complete list of stocks (for example UBER was not listed).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
